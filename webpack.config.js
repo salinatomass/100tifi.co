@@ -35,7 +35,7 @@ module.exports = {  //Aquí se encuentra toda la configuración de lo que va a s
       patterns: [
         {
           from: './src/styles/styles.css',
-          to: ''
+          to: './styles.css'
         }
       ]
     })
